@@ -13,13 +13,4 @@
 <!-- 访客计数器 -->
 <img src="https://komarev.com/ghpvc/?username=wyygpy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<br><br>
-
-<!-- 简单分隔线 -->
----
-<br>
-
-<!-- 一些占位文字，无个人信息 -->
-✨ This is a simple profile README.
-
 </div>
