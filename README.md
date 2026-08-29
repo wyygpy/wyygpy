@@ -20,12 +20,12 @@
 <!-- 5. 动态访客计数器 -->
 <img src="https://komarev.com/ghpvc/?username=wyygpy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<!-- 6. GitHub 统计卡片 (不包含标题和用户名) -->
+<!-- 6. GitHub 统计卡片 (使用官方实例，如不稳定可自部署) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wyygpy&show_icons=true&theme=default&hide_title=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyygpy&layout=compact&theme=default&hide_title=true" />
 
-<!-- 7. 连续提交打卡卡片 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wyygpy&hide_title=true" alt="GitHub Streak" />
+<!-- 7. 连续提交打卡卡片 (已更换为更稳定的备用域名) -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=wyygpy&hide_title=true" alt="GitHub Streak" />
 
 <!-- 8. Steam 游戏卡片 (可选，需要你的 Steam 64位 ID) -->
 <!-- <img src="https://github-readme-steam-card.vercel.app/status/?steamid=你的STEAM_ID&animated_avatar=true" alt="Steam Card" /> -->
