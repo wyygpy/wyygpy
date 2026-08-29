@@ -10,24 +10,16 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/wyygpy/wyygpy/output/github-snake.svg" />
 </picture>
 
-<!-- 3. Netflix 风格卡片 (已使用你的数字 ID 194333948) -->
-<img src="https://coolreadme.xyz/api/netflix?title=My%20GitHub&subtitle=Profile&image=https://avatars.githubusercontent.com/u/194333948?v=4&username=wyygpy" alt="Netflix Card" />
-
-<!-- 4. 游戏化进度卡片 -->
-<img src="https://custom-icon-badge.demolab.com/badge/Level-99-brightgreen?style=for-the-badge&logo=star" alt="Level Badge"/>
-<img src="https://progress-bar.dev/75/?title=XP&width=200" alt="XP Progress Bar" />
-
-<!-- 5. 动态访客计数器 -->
+<!-- 访客计数器 -->
 <img src="https://komarev.com/ghpvc/?username=wyygpy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<!-- 6. GitHub 统计卡片 (使用官方实例，如不稳定可自部署) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wyygpy&show_icons=true&theme=default&hide_title=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyygpy&layout=compact&theme=default&hide_title=true" />
+<br><br>
 
-<!-- 7. 连续提交打卡卡片 (已更换为更稳定的备用域名) -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=wyygpy&hide_title=true" alt="GitHub Streak" />
+<!-- 简单分隔线 -->
+---
+<br>
 
-<!-- 8. Steam 游戏卡片 (可选，需要你的 Steam 64位 ID) -->
-<!-- <img src="https://github-readme-steam-card.vercel.app/status/?steamid=你的STEAM_ID&animated_avatar=true" alt="Steam Card" /> -->
+<!-- 一些占位文字，无个人信息 -->
+✨ This is a simple profile README.
 
 </div>
